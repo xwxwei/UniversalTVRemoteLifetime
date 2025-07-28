@@ -21,3 +21,7 @@ repository to a new Pages project:
 
 Connecting the repository allows each commit to trigger a new build on
 Cloudflare Pages automatically.
+
+For convenience, a simple `wrangler.toml` file is included. It sets
+`pages_build_output_dir` to `.` so you can deploy the project using the
+`wrangler pages` commands if preferred.
