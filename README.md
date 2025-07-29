@@ -5,6 +5,7 @@ This repository contains a simple static website for the **Universal TV Remote L
 - `index.html` &ndash; the home page describing the app.
 - `terms.html` &ndash; a basic user agreement.
 - `privacy.html` &ndash; the privacy policy.
+- `style.css` &ndash; shared styles used across all pages.
 
 Open `index.html` in your browser to view the site locally.
 
